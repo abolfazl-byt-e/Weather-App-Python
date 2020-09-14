@@ -3,8 +3,8 @@
 
 <h5>how to run >></h5>
 <p>1 - git clone <-----></p>
-<p>\t- if virtualenv dont installed</p>
-<p>	- pip install virtualenv</p>
+<p>- if virtualenv dont installed</p>
+<p> 	- pip install virtualenv</p>
 <p>2 - python -m venv venv</p>
 <p>3 - source venv/bin/activate</p>
 <p>4 - pip install -r requirements.txt</p>
