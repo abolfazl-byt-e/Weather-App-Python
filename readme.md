@@ -1,10 +1,12 @@
-<h3>weather app</h3>
-<p>by openweathermap.org/api</p>
+# Weather Application
+**by openweathermap.org/api**
 
-<h5>how to run >></h5>
-<p>1 - git clone <-----></p>
-<p>- if virtualenv dont installed -->  pip install virtualenv</p>
-<p>2 - python -m venv venv</p>
-<p>3 - source venv/bin/activate</p>
-<p>4 - pip install -r requirements.txt</p>
-<p>5 - python app.js</p>
+## how to run
+```
+git clone https://github.com/abolfazlbyte/Weather-App-Python.git
+pip install virtualenv
+python -m venv .venv
+source venv/bin/activate
+pip install -r requirements.txt
+python app.py
+```
